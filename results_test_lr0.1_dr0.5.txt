@@ -1,0 +1,16 @@
+Learning Rate: 0.0001, Dropout Rate: 0.2, Test Result: 9.114265860054092
+Learning Rate: 0.0001, Dropout Rate: 0.3, Test Result: 8.93221567769895
+Learning Rate: 0.0001, Dropout Rate: 0.4, Test Result: 9.474070611688282
+Learning Rate: 0.0001, Dropout Rate: 0.5, Test Result: 9.409455826301715
+Learning Rate: 0.001, Dropout Rate: 0.2, Test Result: 8.858048246699237
+Learning Rate: 0.001, Dropout Rate: 0.3, Test Result: 9.010502793232485
+Learning Rate: 0.001, Dropout Rate: 0.4, Test Result: 9.231975913638706
+Learning Rate: 0.001, Dropout Rate: 0.5, Test Result: 9.316906359112139
+Learning Rate: 0.01, Dropout Rate: 0.2, Test Result: 9.893944786562404
+Learning Rate: 0.01, Dropout Rate: 0.3, Test Result: 9.804840529247878
+Learning Rate: 0.01, Dropout Rate: 0.4, Test Result: 9.304242460469863
+Learning Rate: 0.01, Dropout Rate: 0.5, Test Result: 9.003244124011765
+Learning Rate: 0.1, Dropout Rate: 0.2, Test Result: 10.331447799439168
+Learning Rate: 0.1, Dropout Rate: 0.3, Test Result: 10.139437661298588
+Learning Rate: 0.1, Dropout Rate: 0.4, Test Result: 10.92674927686624
+Learning Rate: 0.1, Dropout Rate: 0.5, Test Result: 12.85293848948428

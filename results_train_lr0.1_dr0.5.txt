@@ -1,0 +1,16 @@
+Learning Rate: 0.0001, Dropout Rate: 0.2, Train Result: 7.489955902099609
+Learning Rate: 0.0001, Dropout Rate: 0.3, Train Result: 7.49233341217041
+Learning Rate: 0.0001, Dropout Rate: 0.4, Train Result: 7.978008270263672
+Learning Rate: 0.0001, Dropout Rate: 0.5, Train Result: 7.980683326721191
+Learning Rate: 0.001, Dropout Rate: 0.2, Train Result: 7.285661697387695
+Learning Rate: 0.001, Dropout Rate: 0.3, Train Result: 7.295530796051025
+Learning Rate: 0.001, Dropout Rate: 0.4, Train Result: 7.312510013580322
+Learning Rate: 0.001, Dropout Rate: 0.5, Train Result: 7.641524791717529
+Learning Rate: 0.01, Dropout Rate: 0.2, Train Result: 7.5070695877075195
+Learning Rate: 0.01, Dropout Rate: 0.3, Train Result: 7.495615005493164
+Learning Rate: 0.01, Dropout Rate: 0.4, Train Result: 7.584722995758057
+Learning Rate: 0.01, Dropout Rate: 0.5, Train Result: 7.853363513946533
+Learning Rate: 0.1, Dropout Rate: 0.2, Train Result: 8.184829711914062
+Learning Rate: 0.1, Dropout Rate: 0.3, Train Result: 8.259127616882324
+Learning Rate: 0.1, Dropout Rate: 0.4, Train Result: 8.942712783813477
+Learning Rate: 0.1, Dropout Rate: 0.5, Train Result: 10.175610542297363
